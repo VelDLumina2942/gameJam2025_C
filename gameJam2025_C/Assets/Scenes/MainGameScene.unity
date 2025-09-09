@@ -359,6 +359,7 @@ MonoBehaviour:
   spawnLimit: 8
   spawnCount: 0
   waitSec: 1.5
+  count_spawnRubble: 0
 --- !u!1 &199920952
 GameObject:
   m_ObjectHideFlags: 0
@@ -683,7 +684,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: fa419f9749dbbfe4dae7d5fec279158e, type: 2}
+  - {fileID: 2100000, guid: 209fabf40f8291e4eb78d0ced80f3dcf, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -824,7 +825,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: fa419f9749dbbfe4dae7d5fec279158e, type: 2}
+  - {fileID: 2100000, guid: 209fabf40f8291e4eb78d0ced80f3dcf, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1431,7 +1432,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: fa419f9749dbbfe4dae7d5fec279158e, type: 2}
+  - {fileID: 2100000, guid: 209fabf40f8291e4eb78d0ced80f3dcf, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
